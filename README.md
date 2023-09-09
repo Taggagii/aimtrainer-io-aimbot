@@ -1,6 +1,6 @@
 ## Information
 
-Python version: 3.10
+Python version: 3.10.9
 <br>
 OS: Windows
 
